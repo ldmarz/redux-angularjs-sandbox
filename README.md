@@ -1,6 +1,6 @@
 # Sandbox
 
-### Empty project ready to make some quick test to some library or concept
+### Test implementation of angularjs using redux as storage
 
 # Getting started
 - Clone this repo
@@ -16,3 +16,5 @@
 - webpack 4.10
 - webpack-dev-server 3.1.4
 - style-loader, css-loader
+- eslintrc
+- redux
